@@ -6,7 +6,7 @@ public class Test001 {
 	
 	@Test
 	public void test() {
-		System.out.println("jenkins");
+		System.out.println("jenkins updated");
 	}
 
 }
