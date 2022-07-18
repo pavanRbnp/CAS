@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[user name textBox is displayed]]>
+    </line>
+    <line>
+      <![CDATA[username successfully entered]]>
+    </line>
+    <line>
+      <![CDATA[password textBox is displayed]]>
+    </line>
+    <line>
+      <![CDATA[password successfully entered]]>
+    </line>
+    <line>
+      <![CDATA[login button is displayed]]>
+    </line>
+    <line>
+      <![CDATA[login button successfully clicked]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2022-07-18T13:27:23 IST" name="Default suite" finished-at="2022-07-18T13:28:06 IST" duration-ms="43250">
+    <groups>
+    </groups>
+    <test started-at="2022-07-18T13:27:23 IST" name="Default test" finished-at="2022-07-18T13:28:06 IST" duration-ms="43250">
+      <class name="com.orangeHRM.Login">
+        <test-method is-config="true" signature="preCondtion()[pri:0, instance:com.orangeHRM.Login@306e95ec]" started-at="2022-07-18T13:27:23 IST" name="preCondtion" finished-at="2022-07-18T13:27:58 IST" duration-ms="35472" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondtion -->
+        <test-method signature="loginTest()[pri:0, instance:com.orangeHRM.Login@306e95ec]" started-at="2022-07-18T13:27:58 IST" name="loginTest" finished-at="2022-07-18T13:28:06 IST" duration-ms="7675" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[user name textBox is displayed]]>
+            </line>
+            <line>
+              <![CDATA[username successfully entered]]>
+            </line>
+            <line>
+              <![CDATA[password textBox is displayed]]>
+            </line>
+            <line>
+              <![CDATA[password successfully entered]]>
+            </line>
+            <line>
+              <![CDATA[login button is displayed]]>
+            </line>
+            <line>
+              <![CDATA[login button successfully clicked]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+      </class> <!-- com.orangeHRM.Login -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
